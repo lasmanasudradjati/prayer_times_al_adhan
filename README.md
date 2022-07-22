@@ -2,6 +2,8 @@
 
 A flutter prayer times app project which consumes open source prayer times API.
 
+![](screenshoot/Screenshot_20220722_145844.jpg)
+
 ## Open Source API Provider
 
 - [Al Adhan: Web App and REST API are now open source](https://aladhan.com/)
