@@ -1,6 +1,6 @@
 # prayer_times_al_adhan
 
-A flutter prayer times app project which consumes open source prayer times API.
+A Flutter Prayer Times App Project with open source prayer times API.
 
 ![](screenshoot/Screenshot_20220722_145844.jpg)
 
